@@ -1,2 +1,3 @@
 # NewsApi
  
+Financial news aggregator
